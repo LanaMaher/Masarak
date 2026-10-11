@@ -39,3 +39,20 @@ Status: In Development
 Documentation:
 
 See Masarak Project Documentation for additional information
+
+Project Status:
+
+🚧 Under Development
+
+Masarak is currently in the development phase as part of a university graduation project.
+
+Current Progress
+
+* [x]	Project idea and planning
+* [x]	Initial project documentation
+* [ ]	Backend development
+* [ ]	Frontend development
+* [ ]	AI integration
+* [ ]	Testing and deployment
+
+The source code will be uploaded as development progresses.
